@@ -28,7 +28,7 @@ git clone https://github.com/amg28/case-study-navbar.git
 
 or using SSH
 
-git clone git@github.com:amg28/case-study-monolith.git
+git clone git@github.com:amg28/case-study-navbar.git
 ```
 
 2. Install required dependencies
